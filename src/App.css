@@ -1,0 +1,23 @@
+header {
+  height: 50px;
+}
+
+.hero {
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 11px solid green;
+}
+
+.categories-list {
+  gap: 15px;
+  border: 1px solid orange;
+}
+
+.category-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid pink;
+}
